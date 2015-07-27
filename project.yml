@@ -1,0 +1,26 @@
+_prefs: 
+  mapid: ''
+  saveCenter: true
+_properties: {}
+attribution: ''
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - -75.8922
+  - 36.0702
+  - 10
+description: ''
+format: "png8:m=h"
+interactivity_layer: ''
+layers: null
+maxzoom: 12
+minzoom: 6
+name: ''
+source: "mapbox:///screencraft.eaef74a1,screencraft.bc719dc6"
+styles: 
+  - style.mss
+  - coastalzones.mss
+template: ''
